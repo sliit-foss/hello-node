@@ -1,0 +1,23 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Hello NodeJS demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sliit-foss/hello-node.git"
+  },
+  "author": "Nandun Bandara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sliit-foss/hello-node/issues"
+  },
+  "homepage": "https://github.com/sliit-foss/hello-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
